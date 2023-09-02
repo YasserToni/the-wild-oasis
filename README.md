@@ -1,3 +1,5 @@
 The Wild Oasis
 
-Yasser Toni 
+Yasser Toni
+
+Built with React Query and supabase
